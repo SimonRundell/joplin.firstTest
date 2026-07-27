@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.simonrundell.HTMLtoMD",
 	"app_min_version": "3.6.0",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "HTML to MD",
 	"description": "Convert HTML notes to Markdown",
 	"author": "Simon Rundell",
