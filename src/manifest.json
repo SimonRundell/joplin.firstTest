@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.simonrundell.firstTest",
+	"app_min_version": "3.6.0",
+	"version": "1.0.0",
+	"name": "firstTest",
+	"description": "Seeing what I can do connecting to Joplin",
+	"author": "Simon Rundell",
+	"homepage_url": "https://simonrundell.com",
+	"repository_url": "https://github.com/SimonRundell/joplin.firstTest",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
